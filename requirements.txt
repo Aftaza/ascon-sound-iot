@@ -1,0 +1,16 @@
+# MQTT Client for ThingSpeak communication
+paho-mqtt>=1.6.1
+
+# Audio Processing & Playback
+numpy>=1.24.0
+scipy>=1.10.0
+pygame>=2.5.0
+wave
+
+# Environment Variables Management
+python-dotenv>=1.0.0
+
+# Data Visualization (for waveform display)
+matplotlib>=3.7.0
+
+# Note: tkinter is built-in with Python, no installation needed
