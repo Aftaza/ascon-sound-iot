@@ -2,8 +2,6 @@
 
 Sistem keamanan informasi untuk audio recording menggunakan enkripsi **Ascon-128** (lightweight authenticated encryption) dengan transmisi melalui **ThingSpeak MQTT broker** over TLS.
 
-![Architecture Flow](file:///C:/Users/THINKPAD%20T470/.gemini/antigravity/brain/d4afa4aa-a8d9-48af-a91e-8d8975c11a63/uploaded_image_1764215563452.png)
-
 ## 📋 Overview
 
 Sistem ini terdiri dari dua komponen utama:
